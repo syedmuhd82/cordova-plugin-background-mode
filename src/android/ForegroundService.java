@@ -50,7 +50,7 @@ public class ForegroundService extends Service {
 
     // Default title of the background notification
     private static final String NOTIFICATION_TITLE =
-            "App is running in background";
+            "App is running in backgroundGIT";
 
     // Default text of the background notification
     private static final String NOTIFICATION_TEXT =
